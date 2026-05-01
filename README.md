@@ -1,3 +1,5 @@
+> **Moved.** This repo has moved into the [`benzsevern/goldenmatch`](https://github.com/benzsevern/goldenmatch) monorepo at `packages/dbt/goldencheck/`. This repo is archived; new development happens in the monorepo.
+
 # dbt-goldencheck
 
 dbt integration for [GoldenCheck](https://github.com/benzsevern/goldencheck) — zero-config data validation as a dbt test.
